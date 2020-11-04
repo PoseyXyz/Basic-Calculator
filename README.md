@@ -1,0 +1,1 @@
+A lightweight calculator using Html, Css and Javascript
